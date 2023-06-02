@@ -63,14 +63,6 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-     - lib/assets/drone.obj
-     - lib/assets/predator.obj
-     - lib/assets/images/code.gif
-     - lib/assets/images/dust.gif
-     - lib/assets/images/energy_ball.gif
-     - lib/assets/images/energy_ball_2.gif
-     - lib/assets/images/explosion.gif
-     - lib/assets/images/rain.gif
      - lib/assets/images/sensors_background.gif
      - lib/assets/images/ufo.gif
      - lib/assets/images/bunny.gif
